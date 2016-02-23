@@ -1,0 +1,16 @@
+nav {
+  border-bottom: 2px solid salmon;
+  margin-bottom: 30px;
+}
+nav span {
+  margin-right: 20px;
+}
+a .button {
+  margin-right: 15px;
+}
+article.rice {
+  display: none;
+}
+article.pho {
+  display: none;
+}
